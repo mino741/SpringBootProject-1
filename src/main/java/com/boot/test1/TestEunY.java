@@ -4,6 +4,6 @@ public class TestEunY {
 
 	private void syso() {
 		// TODO Auto-generated method stub
-System.out.println("��Ű");
+System.out.println("오호 이제 되겠다");
 	}
 }
