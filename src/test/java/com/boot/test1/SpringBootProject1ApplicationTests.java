@@ -11,7 +11,7 @@ class SpringBootProject1ApplicationTests {
 		// HelloWorld
 		// KingDave
 		// dfefa
-		// гогогогогого
+		// М∙≤Л²╢М∙≤Л²╢ М∙≤М∙≤М∙≤М∙≤М∙≤М∙≤М∙≤М∙≤М∙≤
 	}
 
 }
